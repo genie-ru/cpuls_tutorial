@@ -19,3 +19,5 @@ int main() {
     ShowLength("Hello");
     ShowLength("");
 }
+
+//test
